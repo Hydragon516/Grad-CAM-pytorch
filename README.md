@@ -1,6 +1,6 @@
 # Grad-CAM-pytorch
 
-![catdog](./catdog.png)
+![catdog](./gradcam.png)
 
 ## reference
 http://arxiv.org/pdf/1610.02391.pdf
